@@ -5,7 +5,7 @@ IA embarqué détection cancer de la peau
 ## Données ;
 
 Choix du dataset : le dataset utilisé est celui obtenu sur le site : https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign
-Le dataset est disponible sur ce Repository. Ce choix fut fait car le nombre d'images est intéressant sans être trop élevé. De plus, le nombre d'avis positif pour ce dataset est suffisament élevé pour qu'il puisse être jugé pertinent.
+Ce choix fut fait car le nombre d'images est intéressant sans être trop élevé. De plus, le nombre d'avis positif pour ce dataset est suffisament élevé pour qu'il puisse être jugé pertinent.
 
 ## Appareil :
 
